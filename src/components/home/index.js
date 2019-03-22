@@ -1,9 +1,16 @@
 import React, { Component } from 'react';
+import './index.scss'
+import Header from './header'
+import Nav from './nav'
+import Content from './Content'
+
 class Home extends Component {
   render() {
     return (
       <div className="home">
-        我是首页
+      <Header/>
+      <Nav/>
+      <Content/>
       </div>
     );
   }

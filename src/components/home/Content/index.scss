@@ -1,0 +1,22 @@
+.content{
+  padding: 30px;
+  max-width: 1200px;
+  margin: auto;
+  // background: rgb(228, 191, 191);
+  .line-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    .img-content{
+      // width: 300px;
+      // height: 300px;
+      margin: 10px;
+      img{
+        background: #eee;
+        border: 3px solid #ccc;
+        width: 250px;
+        height: 250px;
+      }
+    }
+  }
+}
