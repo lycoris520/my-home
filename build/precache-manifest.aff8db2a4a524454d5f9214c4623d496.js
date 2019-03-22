@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/me.edf6d6e9.jpg"
   },
   {
-    "revision": "d9fcf812e3c1378b21cc",
-    "url": "/static/css/main.0f6b02eb.chunk.css"
+    "revision": "bf6e29b0993bfa1fa719",
+    "url": "/static/css/main.242b37d1.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -14,6 +14,10 @@ self.__precacheManifest = [
   {
     "revision": "6298d069bb91a974df4a",
     "url": "/static/js/2.d142760e.chunk.js"
+  },
+  {
+    "revision": "86f5f72c4b1bf08ab20b74606dfa30e2",
+    "url": "/static/media/timg1.86f5f72c.jpg"
   },
   {
     "revision": "eaa099945c1681d4f3ddd8378990a55b",
@@ -32,16 +36,16 @@ self.__precacheManifest = [
     "url": "/static/media/flower.3941ddcf.jpg"
   },
   {
-    "revision": "d9fcf812e3c1378b21cc",
+    "revision": "bf6e29b0993bfa1fa719",
     "url": "/static/js/main.340a201b.chunk.js"
-  },
-  {
-    "revision": "a3444547e0911717aac4167656d0c9bb",
-    "url": "/static/media/food.a3444547.jpg"
   },
   {
     "revision": "6b74d043c23c7458ed12b7780d2e312b",
     "url": "/static/media/code.6b74d043.jpg"
+  },
+  {
+    "revision": "a3444547e0911717aac4167656d0c9bb",
+    "url": "/static/media/food.a3444547.jpg"
   },
   {
     "revision": "87f8f2073d7298fff8aab8867ca57d23",
@@ -64,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/t4.3941ddcf.jpg"
   },
   {
-    "revision": "fd0622bc51dc225b78e1e755d08a1ded",
+    "revision": "8b0d466e0cbe4fb2f3069d73e57f9bbb",
     "url": "/index.html"
   }
 ];
